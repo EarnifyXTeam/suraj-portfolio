@@ -1,11 +1,18 @@
-/* Clean & simple styles */
+/* Clean & Mobile-Optimized Styles */
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
 }
 
-/* Minimal subtle scrollbar */
+body {
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Minimal subtle scrollbar (Desktop) */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 
 ::-webkit-scrollbar-track {
@@ -29,4 +36,18 @@ html {
 .card-hover:hover {
   transform: translateY(-3px);
   box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
+}
+
+/* Floating WhatsApp Pulse Animation (Mobile) */
+@keyframes pulse-subtle {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.06);
+  }
+}
+
+.floating-whatsapp {
+  animation: pulse-subtle 3s infinite ease-in-out;
 }
