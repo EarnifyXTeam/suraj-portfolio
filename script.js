@@ -361,6 +361,186 @@ const translations = {
     formSuccessText: "आपका मैसेज मिल गया है। हमारी टीम जल्द ही आपसे संपर्क करेगी।",
     footerTagline: "PHP वेब और सोशल बॉट ऑटोमेशन इंजीनियरिंग • ग्लोबल क्लाइंट्स के लिए सेवा",
     backToTop: "ऊपर जाएं ↑"
+  },
+  ur: {
+    navRole: "پی ایچ پی ڈویلپر • سوشل بوٹس اور آٹومیشن اسپیشلسٹ",
+    navHome: "ہوم",
+    navAbout: "تعارف",
+    navTeam: "ٹیم",
+    navSkills: "مہارتیں",
+    navServices: "خدمات",
+    navProjects: "منصوبے",
+    navReviews: "رائے",
+    navPricing: "پیکیجز",
+    navFaq: "سوالات",
+    navContact: "رابطہ",
+    quickChat: "واٹس ایپ",
+    chatOnWhatsApp: "واٹس ایپ پر بات کریں",
+    heroBadge: "ویب سائٹ، پی ایچ پی اور آٹومیشن بوٹس کے لیے دستیاب",
+    heroGreeting: "السلام علیکم، میں ہوں",
+    heroRole: "فل اسٹیک ویب ڈویلپر • پی ایچ پی اسپیشلسٹ • سوشل میڈیا آٹومیشن آرکیٹیکٹ",
+    heroDescription: "میں پی ایچ پی اور مائی ایس کیو ایل سے تیز رفتار ڈائنامک ویب سائٹس بناتا ہوں، انسٹاگرام، فیس بک اور یوٹیوب کے لیے اسمارٹ آٹومیشن بوٹس تیار کرتا ہوں، اور کسٹم سافٹ ویئر سلوشنز فراہم کرتا ہوں جو آپ کے کام کو خودکار اور تیز تر بناتے ہیں۔",
+    heroTeamBadge: "بھارت 🇮🇳 + پاکستان 🇵🇰 ٹیکنالوجی اور آپریشنز اتحاد",
+    heroHireBtn: "رابطہ کریں / بات شروع کریں",
+    heroWhatsAppBtn: "براہ راست واٹس ایپ",
+    stat1Title: "سوشل بوٹس",
+    stat1Sub: "انسٹا • ایف بی • یوٹیوب",
+    stat2Title: "پی ایچ پی اور سافٹ ویئر",
+    stat2Sub: "مکمل ڈائنامک سسٹمز",
+    stat3Title: "یو ایس اے اور عالمی",
+    stat3Sub: "ریموٹ فرینڈلی",
+    cardRole: "پی ایچ پی، سافٹ ویئر اور بوٹ ڈویلپر",
+    cardLocation: "بھارت سے • دنیا بھر میں خدمات",
+    cardCoreStackLabel: "بنیادی ٹیکنالوجی:",
+    cardCoreStackVal: "PHP, MySQL, Python, JS",
+    cardBotLabel: "بوٹس اور APIs:",
+    cardBotVal: "انسٹاگرام، فیس بک، یوٹیوب",
+    cardOpsLabel: "اکاؤنٹس اور آپریشنز:",
+    cardSupportLabel: "سپورٹ:",
+    cardSupportVal: "ڈیلیوری کے بعد مفت معاونت",
+    cardContactBtn: "پروجیکٹ شروع کریں",
+    skillsPill: "مہارتیں",
+    skillsTitle: "ٹیکنالوجیز اور بوٹ فریم ورکس",
+    skillsSubtitle: "وہ ٹولز جن سے ہم کسٹم سافٹ ویئر، ویب پورٹلز اور آٹومیشن بوٹس بناتے ہیں۔",
+    aboutPill: "تعارف",
+    aboutTitle: "میں کون ہوں اور کیا بناتا ہوں؟",
+    aboutSubtitle: "میرے پس منظر، صلاحیتوں اور کام کرنے کے انداز کی تفصیلات۔",
+    aboutStoryHeading: "\"میں پی ایچ پی ڈویلپمنٹ، سافٹ ویئر انجینئرنگ اور اسمارٹ سوشل بوٹس کے ذریعے آپ کے بزنس کو خودکار بناتا ہوں۔\"",
+    aboutPara1: "میرا نام <strong>سورج کمار</strong> ہے اور میرا تعلق <strong>بھارت</strong> سے ہے۔ مجھے پی ایچ پی اور مائی ایس کیو ایل ڈائنامک ویب سائٹس، کاروباری سافٹ ویئر، اور انسٹاگرام، فیس بک اور یوٹیوب کے لیے آٹومیشن بوٹس بنانے کا عملی تجربہ ہے جو آپ کا قیمتی وقت بچاتے ہیں۔",
+    aboutPara2: "چاہے آپ کو مینجمنٹ پورٹل درکار ہو، انسٹاگرام آٹو ڈی ایم بوٹ، یوٹیوب آٹومیشن ٹول، یا جدید ویب سائٹ—میں معیاری اور مضبوط کوڈ لکھتا ہوں جو آپ کے کاروبار کو حقیقی نتائج فراہم کرے۔",
+    aboutContactBtn: "پروجیکٹ پر بات کریں",
+    box1Title: "پی ایچ پی ویب ڈویلپمنٹ",
+    box1Desc: "پی ایچ پی اور مائی ایس کیو ایل پر مبنی ڈائنامک ویب سائٹس، کسٹم پورٹلز اور ایڈمن پینلز۔",
+    box2Title: "سوشل میڈیا بوٹس",
+    box2Desc: "انسٹاگرام، فیس بک اور یوٹیوب کے لیے کسٹم آٹو ڈی ایم اور لیڈ جنریشن بوٹس۔",
+    box3Title: "کسٹم سافٹ ویئر",
+    box3Desc: "کاروباری مینجمنٹ ٹولز، خودکار ڈیٹا اسکریپرز اور رپورٹنگ سسٹمز۔",
+    box4Title: "عالمی رابطہ",
+    box4Desc: "انگریزی اور اردو/ہندی میں رواں گفتگو، امریکہ اور عالمی کلائنٹس کے لیے شفاف اپڈیٹس۔",
+    teamPill: "کور ٹیم اور شراکت داری",
+    teamTitle: "ہماری کور ٹیم سے ملیں",
+    teamSubtitle: "ٹیکنیکل ڈویلپمنٹ اور اکاؤنٹس و آپریشنز کو سنبھالنے والی ماہر ٹیم۔",
+    teamSurajRole: "لیڈ ویب، پی ایچ پی اور بوٹ ڈویلپر",
+    teamSurajBio: "ویب سائٹ ڈویلپمنٹ، کسٹم پی ایچ پی بیک اینڈ، سوشل میڈیا آٹومیشن بوٹس (انسٹا، فیس بک، یوٹیوب) اور ٹیکنیکل سسٹمز سنبھالتے ہیں۔",
+    teamSpecialBadge: "خاص پارٹنر اور اکاؤنٹس ہیڈ",
+    teamHammadRole: "ہیڈ آف اکاؤنٹس اور پروجیکٹ آپریشنز",
+    teamHammadBio: "میرے خاص دوست اور بااعتماد کور پارٹنر (پاکستان سے)، جو ہمارے تمام کھاتوں، مالیاتی لین دین، بلنگ، اور پروجیکٹ کے روزمرہ امور کو بہترین طریقے سے چلاتے ہیں۔",
+    servicesPill: "خدمات",
+    servicesTitle: "ہماری پیشکشیں",
+    servicesSubtitle: "ویب سائٹس، پی ایچ پی، آٹومیشن بوٹس اور کسٹم سافٹ ویئر کے لیے بہترین حل:",
+    srvBotsTitle: "انسٹاگرام، فیس بک اور یوٹیوب بوٹس",
+    srvBotsDesc: "انسٹاگرام آٹو ڈی ایم، کمنٹ آٹو ریپلائی، فیس بک پیج بوٹس اور یوٹیوب چینل آٹومیشن ٹولز۔",
+    srvBotsPoint1: "انسٹاگرام آٹو ڈی ایم اور لیڈ بوٹ",
+    srvBotsPoint2: "فیس بک پیج آٹو ریسپانڈر",
+    srvBotsPoint3: "یوٹیوب ڈیٹا اور اینالیٹکس ٹول",
+    srvPhpTitle: "پی ایچ پی ڈائنامک سائٹس اور پورٹلز",
+    srvPhpDesc: "مائی ایس کیو ایل ڈیٹا بیس کے ساتھ کسٹم پی ایچ پی سائٹس، یوزر لاگ ان سسٹمز اور ایڈمن پینلز۔",
+    srvPhpPoint1: "پی ایچ پی اور مائی ایس کیو ایل بیک اینڈ",
+    srvPhpPoint2: "ایڈمن اور کلائنٹ ڈیش بورڈز",
+    srvPhpPoint3: "تیز رفتار اور محفوظ",
+    srvSoftTitle: "کسٹم سافٹ ویئر ڈویلپمنٹ",
+    srvSoftDesc: "آپ کے کاروباری کاموں کو خودکار بنانے والے سافٹ ویئر، انوینٹری مینجمنٹ اور بلنگ۔",
+    srvSoftPoint1: "بزنس مینجمنٹ ٹولز",
+    srvSoftPoint2: "خودکار ڈیٹا اسکریپرز",
+    srvSoftPoint3: "بلنگ اور رپورٹنگ سسٹمز",
+    srvWebTitle: "ویب ایپس اور ای کامرس",
+    srvWebDesc: "آن لائن اسٹورز، ہائی کنورٹنگ لینڈنگ پیجز اور جدید ریسپانسیو ویب ایپس۔",
+    srvWebPoint1: "ادائیگی کے گیٹ وے کا سیٹ اپ",
+    srvWebPoint2: "100% موبائل ریسپانسیو",
+    srvWebPoint3: "ایس ای او اور اسپیڈ آپٹمائزڈ",
+    orderService: "یہ سروس بک کریں",
+    projectsPill: "منصوبے",
+    projectsTitle: "بوٹس، سافٹ ویئر اور ویب پروجیکٹس",
+    projectsSubtitle: "آٹومیشن بوٹس، پی ایچ پی ڈائنامک پورٹلز اور کسٹم سافٹ ویئر کے نمونے۔",
+    proj1Title: "انسٹاگرام اور فیس بک لیڈ بوٹ",
+    proj1Desc: "خودکار انسٹاگرام ڈی ایم سینڈر، کمنٹ ٹو ان باکس ٹرگر بوٹ اور 24/7 لیڈز حاصل کرنے والا بوٹ۔",
+    projCtaBot: "ایسا بوٹ بنوائیں",
+    proj2Title: "ڈائنامک پی ایچ پی مینجمنٹ پورٹل" ,
+    proj2Desc: "یوزر رولز، مائی ایس کیو ایل، انوائسنگ اور محفوظ ایڈمن پینل پر مشتمل ویب سافٹ ویئر۔",
+    projCtaPhp: "پی ایچ پی سافٹ ویئر بنوائیں",
+    proj3Title: "یوٹیوب اینالیٹکس اور آٹومیشن ٹول",
+    proj3Desc: "یوٹیوب ڈیٹا API پر بنا ٹول جو ویڈیو رینکنگ، شیڈولنگ اور کی ورڈز کو خودکار بناتا ہے۔",
+    projCtaYt: "یوٹیوب آٹومیشن بنوائیں",
+    whyPill: "فوائد",
+    whyTitle: "ہمارے ساتھ کام کیوں کریں؟",
+    why1Title: "مناسب قیمت",
+    why1Desc: "عالمی معیار کا کام مناسب اور بجٹ فرینڈلی ریٹ پر۔",
+    why2Title: "بوٹس اور آٹومیشن میں مہارت",
+    why2Desc: "سوشل میڈیا اور سافٹ ویئر آٹومیشن کے آزمودہ حل۔",
+    why3Title: "ڈیلیوری کے بعد معاونت",
+    why3Desc: "پروجیکٹ کی فراہمی کے بعد بھی سیٹ اپ اور سپورٹ کی مکمل ضمانت۔",
+    why4Title: "لچکدار اوقات",
+    why4Desc: "انگریزی اور اردو میں آسان رابطہ اور بین الاقوامی اوقات کے مطابق کام۔",
+    reviewsPill: "کلائنٹس کی آراء",
+    reviewsTitle: "کلائنٹس کا ہمارے کام کے بارے میں تاثر",
+    reviewsSubtitle: "ان کلائنٹس کے حقیقی تجربات جنہوں نے ہم سے بوٹس اور سافٹ ویئر بنوائے:",
+    review1Text: "\"سورج نے میری ایجنسی کے لیے کمال کا انسٹاگرام لیڈ بوٹ بنایا۔ یہ 24 گھنٹے کام کرتا ہے اور پہلے مہینے میں ہی 150 سے زیادہ لیڈز فراہم کیں۔ زبردست سروس!\"",
+    review2Text: "\"ہماری دکان کے لیے پی ایچ پی انوینٹری سسٹم بنوایا۔ حماد بھائی نے اکاؤنٹس سنبھالے اور سورج نے وقت پر بہترین سسٹم فراہم کیا۔ بہت شاندار تجربہ!\"",
+    review3Text: "\"یوٹیوب آٹومیشن ٹول نے ہماری مواد کی ٹیم کے گھنٹوں بچائے۔ بہت پروفیشنل ٹیم ہے، آئندہ بھی انہی سے کام کروائیں گے!\"",
+    pricingPill: "شفاف پیکیجز",
+    pricingTitle: "آسان اور واضح پیکیجز",
+    pricingSubtitle: "بغیر کسی پوشیدہ چارجز کے معیاری ڈیجیٹل سروسز:",
+    popularBadge: "سب سے مقبول",
+    selectPlan: "یہ پیکیج منتخب کریں",
+    plan1Badge: "اسٹارٹر ویب",
+    plan1Title: "لینڈنگ پیج اور بزنس سائٹ",
+    plan1Desc: "دکانوں، ذاتی برانڈز اور کمپنیوں کے لیے موزوں۔",
+    plan1Price: "شروع $99 سے",
+    plan1PriceInr: "/ مناسب لوکل ریٹ",
+    plan1F1: "100% موبائل ریسپانسیو",
+    plan1F2: "واٹس ایپ اور ڈائریکٹ کال بٹن",
+    plan1F3: "3 سے 5 دن میں فراہمی",
+    plan1F4: "30 دن کی مفت سپورٹ",
+    plan2Badge: "سوشل بوٹ سویٹ",
+    plan2Title: "انسٹاگرام، ایف بی یا یوٹیوب بوٹ",
+    plan2Desc: "خودکار لیڈ جنریشن، ڈی ایم ریسپانڈرز اور اسکریپرز۔",
+    plan2Price: "شروع $149 سے",
+    plan2PriceInr: "/ کسٹم بوٹ سیٹ اپ",
+    plan2F1: "انسٹاگرام آٹو ڈی ایم / کمنٹ بوٹ",
+    plan2F2: "فیس بک آٹو ریسپانڈر",
+    plan2F3: "محفوظ ریٹ لمٹس اور پراکسی سپورٹ",
+    plan2F4: "مکمل سورس کوڈ اور سیٹ اپ گائیڈ",
+    plan3Badge: "فل کسٹم",
+    plan3Title: "پی ایچ پی پورٹل اور کسٹم سافٹ ویئر",
+    plan3Desc: "مائی ایس کیو ایل ڈیٹا بیس، ایڈمن ڈیش بورڈ اور ای کامرس۔",
+    plan3Price: "شروع $249 سے",
+    plan3PriceInr: "/ پروجیکٹ کے مطابق کوٹیشن",
+    plan3F1: "پی ایچ پی اور مائی ایس کیو ایل کسٹم بیک اینڈ",
+    plan3F2: "رول بیسڈ ایڈمن مینجمنٹ",
+    plan3F3: "آن لائن ادائیگی کا گیٹ وے",
+    plan3F4: "مخصوص تکنیکی معاونت",
+    faqPill: "اکثر پوچھے گئے سوالات",
+    faqTitle: "عام سوالات اور جوابات (FAQ)",
+    faqSubtitle: "ٹائم لائنز، بوٹس، سپورٹ اور ادائیگی سے متعلق اہم معلومات:",
+    faq1Q: "ویب سائٹ یا بوٹ بننے میں کتنا وقت لگتا ہے؟",
+    faq1A: "عام لینڈنگ پیجز اور سوشل بوٹس 3 سے 7 کاروباری دنوں میں مکمل ہو جاتے ہیں۔ بڑے پی ایچ پی سسٹمز میں 1 سے 2 ہفتے لگتے ہیں۔",
+    faq2Q: "کیا کام کی فراہمی کے بعد بھی سپورٹ ملتی ہے؟",
+    faq2A: "جی بالکل! ہر پروجیکٹ کے ساتھ 30 دن کی مفت سپورٹ اور بگ فکسنگ شامل ہے تاکہ سسٹم بالکل ٹھیک چلے۔",
+    faq3Q: "کیا انسٹاگرام اور یوٹیوب بوٹس استعمال کرنا محفوظ ہے؟",
+    faq3A: "جی ہاں۔ ہم تمام بوٹس آفیشل ہدایات اور محفوظ لمٹس کے ساتھ بناتے ہیں تاکہ اکاؤنٹس محفوظ رہیں۔",
+    faq4Q: "ادائیگی کے کون سے طریقے دستیاب ہیں؟",
+    faq4A: "ہم اسٹرائپ، پے پال، بینک ٹرانسفر اور لوکل طریقوں سے ادائیگیاں قبول کرتے ہیں، جنہیں ہمارے ہیڈ آف اکاؤنٹس محمد حماد ملک شفاف انداز میں دیکھتے ہیں۔",
+    contactPill: "رابطہ کریں",
+    contactTitle: "اپنے پروجیکٹ پر بات چیت کریں",
+    contactSubtitle: "واٹس ایپ، ای میل یا فارم کے ذریعے رابطہ کریں۔ ہم جلد جواب دیں گے۔",
+    cCard1Badge: "فوری میسج",
+    cCard1Title: "واٹس ایپ پر چیٹ کریں",
+    cCard2Badge: "ای میل رابطہ",
+    cCard2Desc: "جلد جواب کی ضمانت",
+    cCard3Badge: "ڈائریکٹ کال",
+    cCard3Desc: "پیر تا ہفتہ • صبح 9 سے رات 8 بجے",
+    locationNote: "<strong>شراکت داری:</strong> بھارت 🇮🇳 اور پاکستان 🇵🇰 • دنیا بھر کے کلائنٹس کے لیے دستیاب۔",
+    formTitle: "میسج بھیجیں",
+    formSubtitle: "اپنے پروجیکٹ کی تفصیلات لکھیں، ہم جلد آپ سے رابطہ کریں گے۔",
+    formNameLabel: "آپ کا نام *",
+    formEmailLabel: "آپ کا ای میل *",
+    formPhoneLabel: "فون / واٹس ایپ نمبر (اختیاری)",
+    formMsgLabel: "پروجیکٹ کی تفصیلات (پی ایچ پی، بوٹ، سافٹ ویئر وغیرہ) *",
+    formSubmitBtn: "میسج بھیجیں",
+    formSuccessStrong: "شکریہ!",
+    formSuccessText: "آپ کا پیغام موصول ہو گیا ہے۔ ہماری ٹیم جلد آپ سے رابطہ کرے گی۔",
+    footerTagline: "پی ایچ پی ویب اور سوشل بوٹ آٹومیشن انجینئرنگ • عالمی کلائنٹس کے لیے خدمات",
+    backToTop: "اوپر جائیں ↑"
   }
 };
 
@@ -369,25 +549,33 @@ let currentLang = localStorage.getItem('site_lang') || 'en';
 
 const langEnBtn = document.getElementById('langEnBtn');
 const langHiBtn = document.getElementById('langHiBtn');
+const langUrBtn = document.getElementById('langUrBtn');
 
 function setLanguage(lang) {
   currentLang = lang;
   localStorage.setItem('site_lang', lang);
 
-  // Update button active styling
-  if (lang === 'en') {
-    langEnBtn.classList.add('bg-white', 'text-blue-600', 'shadow-sm');
-    langEnBtn.classList.remove('text-slate-600');
-    langHiBtn.classList.remove('bg-white', 'text-blue-600', 'shadow-sm');
-    langHiBtn.classList.add('text-slate-600');
-    document.documentElement.lang = 'en';
-  } else {
-    langHiBtn.classList.add('bg-white', 'text-blue-600', 'shadow-sm');
-    langHiBtn.classList.remove('text-slate-600');
-    langEnBtn.classList.remove('bg-white', 'text-blue-600', 'shadow-sm');
-    langEnBtn.classList.add('text-slate-600');
-    document.documentElement.lang = 'hi';
-  }
+  // Update HTML lang and direction for RTL (Urdu) / LTR (English, Hindi)
+  document.documentElement.lang = lang;
+  document.documentElement.dir = (lang === 'ur') ? 'rtl' : 'ltr';
+
+  // Helper to set active button state
+  const buttons = [
+    { btn: langEnBtn, id: 'en' },
+    { btn: langHiBtn, id: 'hi' },
+    { btn: langUrBtn, id: 'ur' }
+  ];
+
+  buttons.forEach(item => {
+    if (!item.btn) return;
+    if (item.id === lang) {
+      item.btn.classList.add('bg-white', 'text-blue-600', 'shadow-sm');
+      item.btn.classList.remove('text-slate-600');
+    } else {
+      item.btn.classList.remove('bg-white', 'text-blue-600', 'shadow-sm');
+      item.btn.classList.add('text-slate-600');
+    }
+  });
 
   // Update all translatable elements
   const elements = document.querySelectorAll('[data-i18n]');
@@ -399,10 +587,9 @@ function setLanguage(lang) {
   });
 }
 
-if (langEnBtn && langHiBtn) {
-  langEnBtn.addEventListener('click', () => setLanguage('en'));
-  langHiBtn.addEventListener('click', () => setLanguage('hi'));
-}
+if (langEnBtn) langEnBtn.addEventListener('click', () => setLanguage('en'));
+if (langHiBtn) langHiBtn.addEventListener('click', () => setLanguage('hi'));
+if (langUrBtn) langUrBtn.addEventListener('click', () => setLanguage('ur'));
 
 // Initialize on page load
 setLanguage(currentLang);
@@ -445,7 +632,9 @@ if (contactForm && submitBtn && formSuccessAlert) {
 
     const originalText = submitBtn.innerHTML;
     submitBtn.disabled = true;
-    const sendingText = currentLang === 'hi' ? 'भेजा जा रहा है...' : 'Sending...';
+    let sendingText = 'Sending...';
+    if (currentLang === 'hi') sendingText = 'भेजा जा रहा है...';
+    if (currentLang === 'ur') sendingText = 'بھیجا جا رہا ہے...';
     submitBtn.innerHTML = `<i class="fa-solid fa-spinner fa-spin"></i> <span>${sendingText}</span>`;
 
     setTimeout(() => {

@@ -31,10 +31,10 @@
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   
-  <!-- Google Fonts: Inter & Outfit -->
+  <!-- Google Fonts: Inter, Outfit & Noto Sans Arabic (for Urdu) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
   
   <!-- FontAwesome 6 Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
@@ -90,15 +90,19 @@
       <!-- Right Controls: Language Switcher & WhatsApp -->
       <div class="flex items-center gap-3">
         
-        <!-- Language Switcher Pill -->
-        <div class="flex items-center bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs font-bold">
-          <button id="langEnBtn" class="px-2.5 py-1 rounded-lg bg-white text-blue-600 shadow-sm transition-all flex items-center gap-1.5" title="English">
+        <!-- Language Switcher Pill (EN / HI / UR) -->
+        <div class="flex items-center bg-slate-100 p-0.5 sm:p-1 rounded-xl border border-slate-200 text-xs font-bold">
+          <button id="langEnBtn" class="px-2 py-1 rounded-lg bg-white text-blue-600 shadow-sm transition-all flex items-center gap-1" title="English">
             <span>🇺🇸</span>
-            <span class="hidden sm:inline">English</span>
+            <span class="hidden md:inline">EN</span>
           </button>
-          <button id="langHiBtn" class="px-2.5 py-1 rounded-lg text-slate-600 hover:text-slate-900 transition-all flex items-center gap-1.5" title="Hindi">
+          <button id="langHiBtn" class="px-2 py-1 rounded-lg text-slate-600 hover:text-slate-900 transition-all flex items-center gap-1" title="Hindi">
             <span>🇮🇳</span>
-            <span class="hidden sm:inline">हिन्दी</span>
+            <span class="hidden md:inline">हिन्दी</span>
+          </button>
+          <button id="langUrBtn" class="px-2 py-1 rounded-lg text-slate-600 hover:text-slate-900 transition-all flex items-center gap-1" title="Urdu">
+            <span>🇵🇰</span>
+            <span class="hidden md:inline">اردو</span>
           </button>
         </div>
 

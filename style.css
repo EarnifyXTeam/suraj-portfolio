@@ -5,6 +5,11 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+/* Beautiful Urdu Font Styling */
+html[lang="ur"], body[lang="ur"], [dir="rtl"] {
+  font-family: 'Noto Sans Arabic', 'Inter', sans-serif;
+}
+
 body {
   overflow-x: hidden;
   -webkit-tap-highlight-color: transparent;
@@ -40,9 +45,12 @@ body {
 
 /* Floating WhatsApp Pulse Animation (Mobile) */
 @keyframes pulse-subtle {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: scale(1);
   }
+
   50% {
     transform: scale(1.06);
   }
